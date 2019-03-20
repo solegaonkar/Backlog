@@ -1,5 +1,8 @@
 # 20190320 - 20190326:
 - Spring Microservices in Action.pdf
+  - Microservice - What & Why
+  - Good Design
+  - Microservice Design Patterns 
 - Docker Blog Series
   - What is Docker
   - Docker Architecture
