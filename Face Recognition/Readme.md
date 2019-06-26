@@ -1,1 +1,0 @@
-# Blog for Face Recognition
